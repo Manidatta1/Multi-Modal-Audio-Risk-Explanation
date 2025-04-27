@@ -78,3 +78,10 @@ Main libraries used:
 - Natural-language explanations boost model interpretability and human trust.
 
 ---
+
+
+## Author
+
+**ManiDatta**  
+Data Science @ University of Colorado Boulder  
+[GitHub](https://github.com/Manidatta1)
