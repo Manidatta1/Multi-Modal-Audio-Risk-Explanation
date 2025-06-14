@@ -9,6 +9,10 @@ Public safety monitoring often lacks real-time, human-readable explanations alon
 Our model not only **predicts risk levels** from audio but **explains** the context behind each prediction.
 
 ---
+![My Profile](Audio.png)
+
+
+---
 
 ## Approach
 - **Audio Preprocessing:**  
